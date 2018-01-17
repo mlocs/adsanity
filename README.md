@@ -8,3 +8,7 @@
 ## Online courses
 
 * [Udacity self-driving car nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+
+## Blogs
+
+* [The Foretellix Blog](https://blog.foretellix.com/) focused on verification for autonomous vehicles
