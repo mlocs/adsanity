@@ -12,3 +12,7 @@
 ## Blogs
 
 * [The Foretellix Blog](https://blog.foretellix.com/) focused on verification for autonomous vehicles
+
+## Github projects
+
+* Facebook's object detection platform [Detectron](https://github.com/facebookresearch/Detectron) with a model zoo already available
