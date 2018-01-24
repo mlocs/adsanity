@@ -15,4 +15,4 @@
 
 ## Github projects
 
-* Facebook's object detection platform [Detectron](https://github.com/facebookresearch/Detectron) with a model zoo already available
+* [Detectron](https://github.com/facebookresearch/Detectron) Facebook's object detection platform  with a model zoo already available
