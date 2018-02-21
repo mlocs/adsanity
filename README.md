@@ -8,6 +8,7 @@
 ## Online courses
 
 * [Udacity self-driving car nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+* [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/) by Lex Fridman with videos available online
 
 ## Blogs
 
