@@ -14,6 +14,10 @@
 
 * [The Foretellix Blog](https://blog.foretellix.com/) focused on verification for autonomous vehicles
 
+## Podcasts
+
+* [Smarter Cars](https://anchor.fm/smarter-cars/episodes/Philip-Koopman---Carnegie-Mellon---AV-Safety-e16nav/a-a2nnck)
+
 ## Github projects
 
 * [Detectron](https://github.com/facebookresearch/Detectron) Facebook's object detection platform  with a model zoo already available
